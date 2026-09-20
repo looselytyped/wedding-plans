@@ -6,16 +6,16 @@
 
 ## Confirmed Guests
 
-| Guest          | Party | Meal Preference | RSVP      | Notes           |
-| -------------- | ----: | --------------- | --------- | --------------- |
-| Jamie Parker   |     1 | Vegetarian      | Confirmed | Bride           |
-| Alex Morgan    |     1 | Chicken         | Confirmed | Groom           |
-| Maria Parker   |     2 | Chicken         | Confirmed | Jamie's parents |
-| David Parker   |     2 | Salmon          | Confirmed | Jamie's parents |
-| Susan Morgan   |     2 | Vegetarian      | Confirmed | Alex's parents  |
-| Michael Morgan |     2 | Chicken         | Confirmed | Alex's parents  |
-| Priya Shah     |     1 | Vegetarian      | Confirmed | College friend  |
-| Ethan Brooks   |     1 | Salmon          | Confirmed | College friend  |
+| Guest          | Party | Meal Preference | Dietary Restrictions | RSVP      | Notes           |
+| -------------- | ----: | --------------- | -------------------- | --------- | --------------- |
+| Jamie Parker   |     1 | Vegetarian      | None                 | Confirmed | Bride           |
+| Alex Morgan    |     1 | Chicken         | Shellfish allergy    | Confirmed | Groom           |
+| Maria Parker   |     2 | Chicken         | Gluten-free          | Confirmed | Jamie's parents |
+| David Parker   |     2 | Salmon          | None                 | Confirmed | Jamie's parents |
+| Susan Morgan   |     2 | Vegetarian      | Dairy-free           | Confirmed | Alex's parents  |
+| Michael Morgan |     2 | Chicken         | None                 | Confirmed | Alex's parents  |
+| Priya Shah     |     1 | Vegetarian      | Vegan                | Confirmed | College friend  |
+| Ethan Brooks   |     1 | Salmon          | Nut allergy          | Confirmed | College friend  |
 
 ## Awaiting RSVP
 
