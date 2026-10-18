@@ -8,6 +8,7 @@
 - Venue coordinator: Lena Ortiz
 - Email: lena.ortiz@harborviewgarden.example
 - Phone: (503) 555-0147
+- Wedding website: https://jamie-and-alex.example
 
 ## Day-Of Contacts
 
