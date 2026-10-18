@@ -8,11 +8,12 @@
 - Venue coordinator: Lena Ortiz
 - Email: lena.ortiz@harborviewgarden.example
 - Phone: (503) 555-0147
+- Wedding website: https://jamie-and-alex.com
 
 ## Day-Of Contacts
 
-| Role | Contact | Phone |
-| --- | --- | --- |
-| Venue coordinator | Lena Ortiz | (503) 555-0147 |
-| Catering manager | Marco Ellis | (503) 555-0182 |
-| Florist | Willow & Stem | (503) 555-0119 |
+| Role              | Contact       | Phone          |
+| ----------------- | ------------- | -------------- |
+| Venue coordinator | Lena Ortiz    | (503) 555-0147 |
+| Catering manager  | Marco Ellis   | (503) 555-0182 |
+| Florist           | Willow & Stem | (503) 555-0119 |
